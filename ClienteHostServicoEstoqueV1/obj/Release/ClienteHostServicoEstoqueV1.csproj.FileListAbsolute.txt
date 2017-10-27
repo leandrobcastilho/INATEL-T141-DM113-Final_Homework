@@ -1,0 +1,10 @@
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\ClienteHostServicoEstoqueV1.exe.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\ClienteHostServicoEstoqueV1.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\ClienteHostServicoEstoqueV1.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\EntityFramework.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\EntityFramework.SqlServer.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\EntityFramework.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\bin\Release\EntityFramework.SqlServer.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\obj\Release\ClienteHostServicoEstoqueV1.csproj.CoreCompileInputs.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\obj\Release\ClienteHostServicoEstoqueV1.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV1\obj\Release\ClienteHostServicoEstoqueV1.pdb

@@ -1,0 +1,11 @@
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\ClienteHostServicoEstoqueV2.exe.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\ClienteHostServicoEstoqueV2.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\ClienteHostServicoEstoqueV2.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\EntityFramework.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\EntityFramework.SqlServer.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\EntityFramework.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\bin\Debug\EntityFramework.SqlServer.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\obj\Debug\ClienteHostServicoEstoqueV2.csproj.CoreCompileInputs.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\obj\Debug\ClienteHostServicoEstoqueV2.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\obj\Debug\ClienteHostServicoEstoqueV2.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteHostServicoEstoqueV2\obj\Debug\ClienteHostServicoEstoqueV2.csprojResolveAssemblyReference.cache

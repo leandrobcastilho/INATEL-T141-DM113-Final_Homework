@@ -1,0 +1,17 @@
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueHost.exe.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueHost.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueHost.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EntityFramework.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EntityFramework.SqlServer.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueLibrary.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EstoqueEntityModel.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueLibrary.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\ServicoEstoqueLibrary.dll.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EntityFramework.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EntityFramework.SqlServer.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EstoqueEntityModel.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\bin\Release\EstoqueEntityModel.dll.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\obj\Release\ServicoEstoqueHost.csprojResolveAssemblyReference.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\obj\Release\ServicoEstoqueHost.csproj.CoreCompileInputs.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\obj\Release\ServicoEstoqueHost.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ServicoEstoqueHost\obj\Release\ServicoEstoqueHost.pdb
