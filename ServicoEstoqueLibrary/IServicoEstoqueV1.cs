@@ -12,16 +12,16 @@ namespace ProdutosV1
     [ServiceContract]
     public interface IServicoEstoqueV1
     {
-   
-        [OperationContract]
+
+        [OperationContract] 
         List<string> ListarProdutos();
-        
+
         [OperationContract]
         bool IncluirProduto(ProdutoTO ProdutoTO);
 
         [OperationContract]
         bool RemoverProduto(string NumeroProduto);
-     
+
         [OperationContract]
         int ConsultarEstoque(string NumeroProduto);
 
@@ -31,7 +31,7 @@ namespace ProdutosV1
         [OperationContract]
         bool RemoverEstoque(string NumeroProduto, int Quantidade);
 
-        [OperationContract]
+        [OperationContract] 
         ProdutoTO VerProduto(string NumeroProduto);
 
     }

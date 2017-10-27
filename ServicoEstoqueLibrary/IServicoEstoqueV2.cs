@@ -12,7 +12,7 @@ namespace ProdutosV2
     [ServiceContract]
     public interface IServicoEstoqueV2
     {
-     
+
         [OperationContract]
         int ConsultarEstoque(string NumeroProduto);
 

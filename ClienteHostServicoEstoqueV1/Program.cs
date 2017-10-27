@@ -18,6 +18,7 @@ namespace ClienteHostServicoEstoqueV1
             //ServicoEstoqueV1Client proxyV1 = new ServicoEstoqueV1Client();
             //ServicoEstoqueV1Client proxyV1 = new ServicoEstoqueV1Client("NetTcpBinding_IServicoEstoqueV1");
             ServicoEstoqueV1Client proxyV1 = new ServicoEstoqueV1Client("BasicHttpBinding_IServicoEstoqueV1");
+            //ServicoEstoqueV1Client proxyV1 = new ServicoEstoqueV1Client("WS2007HttpBinding_IServicoEstoqueV1");
 
             Console.WriteLine("---ServicoEstoqueV1-----------------------------------------");
 
