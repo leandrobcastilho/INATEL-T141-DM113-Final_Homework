@@ -12,7 +12,7 @@ namespace ClienteHostServicoEstoqueV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press ENTER when the service has started");
+            Console.WriteLine("Press ENTER when the service 1 has started");
             Console.ReadLine();
 
             //ServicoEstoqueV1Client proxyV1 = new ServicoEstoqueV1Client();

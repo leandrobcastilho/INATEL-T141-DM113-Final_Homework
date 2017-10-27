@@ -12,10 +12,11 @@ namespace ClienteHostServicoEstoqueV2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press ENTER when the service has started");
+            Console.WriteLine("Press ENTER when the service 2 has started");
             Console.ReadLine();
 
-            ServicoEstoqueV2Client proxyV2 = new ServicoEstoqueV2Client();
+            //ServicoEstoqueV2Client proxyV2 = new ServicoEstoqueV2Client();
+            ServicoEstoqueV2Client proxyV2 = new ServicoEstoqueV2Client("NetTcpBinding_IServicoEstoqueV2");
 
             Console.WriteLine("---ServicoEstoqueV2-----------------------------------------");
 
