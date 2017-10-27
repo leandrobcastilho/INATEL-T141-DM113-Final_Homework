@@ -10,4 +10,3 @@ E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\Esto
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.Criacao_do_Banco.resources
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.Cache
-E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojResolveAssemblyReference.cache

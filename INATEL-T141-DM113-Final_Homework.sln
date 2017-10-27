@@ -5,27 +5,37 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueEntityModel", "EstoqueEntityModel\EstoqueEntityModel.csproj", "{34F69398-36D6-4EB3-925A-36985EC3318F}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicoEstoque", "ServicoEstoque\", "{0A7795DB-844A-4506-94C0-A4B0EF4D721D}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicoEstoque", "ServicoEstoque\", "{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
 		ProjectReferences = "{34f69398-36d6-4eb3-925a-36985ec3318f}|EstoqueEntityModel.dll;"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_54039"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62422"
 		Debug.AspNetCompiler.PhysicalPath = "ServicoEstoque\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54039\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62422\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_54039"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62422"
 		Release.AspNetCompiler.PhysicalPath = "ServicoEstoque\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54039\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62422\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "54039"
+		VWDPort = "62422"
 		SlnRelativePath = "ServicoEstoque\"
 		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteServicoEstoqueV1", "ClienteServicoEstoqueV1\ClienteServicoEstoqueV1.csproj", "{04B50799-B06F-40B8-9081-737B4DB4DE90}"
+	ProjectSection(ProjectDependencies) = postProject
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA} = {90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteServicoEstoqueV2", "ClienteServicoEstoqueV2\ClienteServicoEstoqueV2.csproj", "{54F63266-4A65-4F0F-B849-4638B9D1F290}"
+	ProjectSection(ProjectDependencies) = postProject
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA} = {90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}
 	EndProjectSection
 EndProject
 Global
@@ -38,10 +48,18 @@ Global
 		{34F69398-36D6-4EB3-925A-36985EC3318F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34F69398-36D6-4EB3-925A-36985EC3318F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34F69398-36D6-4EB3-925A-36985EC3318F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A7795DB-844A-4506-94C0-A4B0EF4D721D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A7795DB-844A-4506-94C0-A4B0EF4D721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A7795DB-844A-4506-94C0-A4B0EF4D721D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A7795DB-844A-4506-94C0-A4B0EF4D721D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D3FCD2-DF9E-4D3B-86A2-46088A5825BA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{04B50799-B06F-40B8-9081-737B4DB4DE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B50799-B06F-40B8-9081-737B4DB4DE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B50799-B06F-40B8-9081-737B4DB4DE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B50799-B06F-40B8-9081-737B4DB4DE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F63266-4A65-4F0F-B849-4638B9D1F290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F63266-4A65-4F0F-B849-4638B9D1F290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F63266-4A65-4F0F-B849-4638B9D1F290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F63266-4A65-4F0F-B849-4638B9D1F290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
