@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using System.Net.Security;
 
 namespace EstoqueLibrary
 {
@@ -42,13 +43,16 @@ namespace EstoqueLibrary
     public interface IServicoEstoqueV2
     {
 
-        [OperationContract]
+        //[OperationContract]
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
         int ConsultarEstoque(string NumeroProduto);
 
-        [OperationContract]
+        //[OperationContract]
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
         bool AdcionarEstoque(string NumeroProduto, int Quantidade);
 
-        [OperationContract]
+        //[OperationContract]
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
         bool RemoverEstoque(string NumeroProduto, int Quantidade);
 
     }

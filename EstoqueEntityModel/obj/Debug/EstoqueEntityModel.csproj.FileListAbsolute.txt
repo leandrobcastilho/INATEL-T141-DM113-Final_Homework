@@ -10,3 +10,4 @@ E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\Esto
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojResolveAssemblyReference.cache

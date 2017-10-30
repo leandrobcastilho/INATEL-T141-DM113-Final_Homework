@@ -8,3 +8,4 @@ E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\Clie
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.csproj.CoreCompileInputs.cache
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.exe
 E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.csprojResolveAssemblyReference.cache
