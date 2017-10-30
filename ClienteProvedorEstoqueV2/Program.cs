@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ServiceModel;
 using ClienteProvedorEstoqueV2.ServicoEstoque;
 
-namespace ClienteProvedorEstoqueV2
+namespace ClienteProvedorEstoque
 {
     class Program
     {
@@ -17,7 +17,7 @@ namespace ClienteProvedorEstoqueV2
             Console.ReadLine();
 
             //ServicoEstoqueClient proxy = new ServicoEstoqueClient();
-            ServicoEstoqueClient proxy = new ServicoEstoqueClient("BasicHttpBinding_IServicoEstoque");
+            ServicoEstoqueV2Client proxy = new ServicoEstoqueV2Client("BasicHttpBinding_IServicoEstoque");
 
             Console.WriteLine("---ServicoEstoqueV2-----------------------------------------");
 
