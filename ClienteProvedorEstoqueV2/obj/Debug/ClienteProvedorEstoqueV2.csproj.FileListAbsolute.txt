@@ -1,0 +1,10 @@
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\ClienteProvedorEstoqueV2.exe.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\ClienteProvedorEstoqueV2.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\ClienteProvedorEstoqueV2.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\EntityFramework.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\EntityFramework.SqlServer.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\EntityFramework.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\bin\Debug\EntityFramework.SqlServer.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.csproj.CoreCompileInputs.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ClienteProvedorEstoqueV2\obj\Debug\ClienteProvedorEstoqueV2.pdb

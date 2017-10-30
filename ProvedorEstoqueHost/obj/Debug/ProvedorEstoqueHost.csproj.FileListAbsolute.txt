@@ -1,0 +1,17 @@
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EntityFramework.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EntityFramework.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.xml
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.pdb
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll.config
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csprojResolveAssemblyReference.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csproj.CoreCompileInputs.cache
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.exe
+E:\leandro\Pós Inatel 2017\DM113\Projetos\INATEL-T141-DM113-Final_Homework\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.pdb
